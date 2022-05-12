@@ -1,0 +1,16 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "deploy": "gh-pages -d Timer"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://white-knight666.github.io/Timer",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
